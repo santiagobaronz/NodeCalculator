@@ -37,4 +37,4 @@ git clone https://github.com/santiagobaronz/NodeCalculator.git
 
 ## Authors 🦸‍♀️
 
-- Santiago Baron Zuleta - *Project creator* [Santiago-Baron-Zuleta](https://github.com/santiagobaronz)
+- Santiago Baron Zuleta - *Project creator* [Santiago Baron Zuleta](https://github.com/santiagobaronz)
